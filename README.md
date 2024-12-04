@@ -1,9 +1,6 @@
-Here is a well-structured `README.md` for the Ansible and Configuration Management project, based on the steps and explanations you provided:
+# Ansible Configuration Management
 
-```markdown
-# Ansible Configuration Management Project
-
-This project demonstrates how to set up passwordless SSH authentication and use Ansible for configuring multiple target servers, such as CentOS or Ubuntu servers, in a simple and efficient way. 
+This project demonstrates how to set up passwordless SSH authentication and use Ansible for configuring multiple target servers, such as CentOS or Ubuntu servers, in a simple and efficient way.
 
 ## Prerequisites
 
@@ -117,6 +114,3 @@ This project demonstrates the power of Ansible in configuration management, maki
 ### Further Resources:
 - [Ansible Documentation](https://docs.ansible.com/)
 - [Ansible Playbook Examples](https://github.com/ansible/ansible-examples)
-```
-
-This `README.md` outlines the process of setting up Ansible, configuring passwordless SSH, and running simple tasks on multiple servers using Ansible modules and playbooks. It’s designed to be clear and easy to follow for anyone getting started with configuration management and automation.
